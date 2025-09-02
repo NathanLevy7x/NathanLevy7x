@@ -31,7 +31,7 @@
    
 Full-Stack Developer com expertise em Back-End, formação em Análise e Desenvolvimento de Sistemas e 3 anos de experiência em suporte ao cliente. Domínio intermediário em Laravel, .NET, Python, MySQL e Azure, complementado por experiência em Angular e React para o desenvolvimento Front-end.
 
-📩Email: nathan_levysants2018@hotmail.com
+✉️Email: nathan_levysants2018@hotmail.com
 
 🛠 Hard Skills:
 • Back-End & APIs: Desenvolvimento de APIs RESTful (Laravel, .NET), Consumo e Integração de APIs, autenticação e Autorização (JWT, OAuth)
