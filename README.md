@@ -27,7 +27,7 @@
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLevy7x&layout=compact&font=Iosevka&langs_count=16&theme=gotham"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanLevy7x&theme=gotham"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathadasvy7x&theme=gotham"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
