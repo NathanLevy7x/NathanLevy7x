@@ -23,11 +23,11 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=NathanLevy7x&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLevy7x&layout=compact&font=Iosevka&langs_count=16&theme=gotham"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=NathanLevy7x&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka&border_color=000000"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLevy7x&layout=compact&font=Iosevka&langs_count=16&theme=gotham&border_color=000000"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanLevy7x&theme=gotham"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanLevy7x&theme=gotham&font=Iosevka&hide_border=true"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
