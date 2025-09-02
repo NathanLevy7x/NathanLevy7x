@@ -11,11 +11,63 @@
   </samp>
 </div>
 
+  
 <div align="center" width="100">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=06d7a0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Full-Stack+Developer" alt="Typing SVG"/>
 </div>
 
-<br>
+
+
+
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+
+  <p>
+   
+Full-Stack Developer com expertise em Back-End, formação em Análise e Desenvolvimento de Sistemas e 3 anos de experiência em suporte ao cliente. Domínio intermediário em Laravel, .NET, Python, MySQL e Azure, complementado por experiência em Angular e React para o desenvolvimento Front-end.
+
+Sou movido por desafios complexos e projetos inovadores, com excelente comunicação e foco na experiência do cliente, resultante de experiência prévia em atendimento ao usuário. Comprometido com a excelência técnica, proatividade e crescimento contínuo.
+
+📩Email: nathan_levysants2018@hotmail.com
+
+🛠 Hard Skills:
+• Back-End & APIs: Desenvolvimento de APIs RESTful (Laravel, .NET), Consumo e Integração de APIs, autenticação e Autorização (JWT, OAuth)
+• Linguagens & Frameworks: PHP (Laravel), C# (.NET), Python, JavaScript/TypeScript
+• Front-end: HTML5, CSS, Angular, React
+• Banco de Dados: MySQL, MongoDB
+• Ferramentas & Plataformas: Git, GitHub, Docker, Azure, Redis, CI/CD, FileZilla, WordPress
+• Conceitos: Programação Orientada a Objetos (POO), Web Scraping, Internacionalização (i18n)
+• Outros: Pacote Office (Básico ao Avançado), Hardware, Sistemas Operacionais
+
+📞 Soft Skills:
+• Comunicação Clara (atendimento via chat, e-mail e voz)
+• Proatividade e Resolução de Problemas
+• Trabalho em Equipe
+• Inglês Intermediário
+
+👨‍🎓 Formação & Cursos:
+• Graduação Tecnológica em Análise e Desenvolvimento de Sistemas
+• Cursos Complementares: Hardware, Operador de Tecnologia, Pacote Office (do Básico ao Avançado)
+
+🌟 Destaques:
+• Experiência em ambientes ágeis e práticas de CI/CD.
+• Capacidade de integrar conhecimentos de infraestrutura (Docker, Azure) com desenvolvimento.
+• Perfil híbrido, unindo technical skills com forte experiência em suporte e orientação ao cliente.
+
+Estou aberto a novas oportunidades e conexões. Vamos conversar e explorar como posso contribuir para o sucesso do seu time, agradeço pela visita ao meu perfil e estou ansioso para expandir minha rede de contatos!
+    <b>
+  </p>
+
+
+  
+</details>
+
+
 
 
       
@@ -58,30 +110,23 @@
 </div>
 
 <br>
-<br>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
 
 ##
 
 <br>
 
-<div align="center">
+<div align="center"style="margin-top: 20px;">
+
   <samp>
     <b>
       Contact me:
     </b>
+    
   </samp>
   <br>
   <br>
-
+  
   [![Email](https://img.shields.io/badge/Email-194d45?style=for-the-badge&logo=Emaill&logoColor=fff)](mailto:nathan_levysants2018@hotmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-194d45?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/haky.vy/)
   [![Discord](https://img.shields.io/badge/Discord-194d45?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8r7y5sG6)
@@ -89,14 +134,7 @@
   
 </div>
 
-<div align="center">
-  <p align="center">
- 
-  </p>
-</div>
 <br>
-
-</details>
 
 ##
 
@@ -106,7 +144,7 @@
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FNathanLevy7x&s=30&c=06d7a0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
-<br>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NathanLevy7x/NathanLevy7x/output/github-contribution-grid-snake-dark.svg">
