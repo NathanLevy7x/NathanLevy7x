@@ -31,25 +31,24 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="35" src="https://skillicons.dev/icons?i=laravel" />
-  <img width="35" src="https://skillicons.dev/icons?i=dotnet" />
-  <img width="35" src="https://skillicons.dev/icons?i=php" />
-  <img width="35" src="https://skillicons.dev/icons?i=cs" />
-  <img width="35" src="https://skillicons.dev/icons?i=mysql" />
-  <img width="35" src="https://skillicons.dev/icons?i=javascript" />
-  <img width="35" src="https://skillicons.dev/icons?i=html" />
-  <img width="35" src="https://skillicons.dev/icons?i=css" />
-  <img width="35" src="https://skillicons.dev/icons?i=git" />
-  <img width="35" src="https://skillicons.dev/icons?i=python" />
-  <img width="35" src="https://skillicons.dev/icons?i=java" />
-  <img width="35" src="https://skillicons.dev/icons?i=angular" />
-  <img width="35" src="https://skillicons.dev/icons?i=react" />
-  <img width="35" src="https://skillicons.dev/icons?i=azure" />
-  <img width="35" src="https://skillicons.dev/icons?i=mongodb" />
-  <img width="35" src="https://skillicons.dev/icons?i=docker" />
-  <img width="35" src="https://skillicons.dev/icons?i=redis" />
-  <img width="35" src="https://skillicons.dev/icons?i=nodejs" />
-  
+  <img width="34" src="https://skillicons.dev/icons?i=laravel" />
+  <img width="34" src="https://skillicons.dev/icons?i=dotnet" />
+  <img width="34" src="https://skillicons.dev/icons?i=php" />
+  <img width="34" src="https://skillicons.dev/icons?i=cs" />
+  <img width="34" src="https://skillicons.dev/icons?i=mysql" />
+  <img width="34" src="https://skillicons.dev/icons?i=javascript" />
+  <img width="34" src="https://skillicons.dev/icons?i=html" />
+  <img width="34" src="https://skillicons.dev/icons?i=css" />
+  <img width="34" src="https://skillicons.dev/icons?i=git" />
+  <img width="34" src="https://skillicons.dev/icons?i=python" />
+  <img width="34" src="https://skillicons.dev/icons?i=java" />
+  <img width="34" src="https://skillicons.dev/icons?i=angular" />
+  <img width="34" src="https://skillicons.dev/icons?i=react" />
+  <img width="34" src="https://skillicons.dev/icons?i=azure" />
+  <img width="34" src="https://skillicons.dev/icons?i=mongodb" />
+  <img width="34" src="https://skillicons.dev/icons?i=docker" />
+  <img width="34" src="https://skillicons.dev/icons?i=redis" />
+  <img width="34" src="https://skillicons.dev/icons?i=nodejs" />
 
   
   
