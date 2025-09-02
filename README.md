@@ -29,35 +29,35 @@
 
   <p>
    
-Full-Stack Developer com expertise em Back-End, formação em Análise e Desenvolvimento de Sistemas e 3 anos de experiência em suporte ao cliente. Domínio intermediário em Laravel, .NET, Python, MySQL e Azure, complementado por experiência em Angular e React para o desenvolvimento Front-end.
+Full-stack developer with back-end expertise, a degree in systems analysis and development, and three years of customer support experience. Intermediate proficiency in Laravel, .NET, Python, MySQL, and Azure, complemented by experience in Angular and React for front-end development.
 
 📧Email: nathan_levysants2018@hotmail.com
 
 🛠 Hard Skills:
-• Back-End & APIs: Desenvolvimento de APIs RESTful (Laravel, .NET), Consumo e Integração de APIs, autenticação e Autorização (JWT, OAuth)
-• Linguagens & Frameworks: PHP (Laravel), C# (.NET), Python, JavaScript/TypeScript
+• Back-End & APIs: RESTful API development (Laravel, .NET), API consumption and integration, authentication and authorization (JWT, OAuth)
+• Languages ​​& Frameworks: PHP (Laravel), C# (.NET), Python, JavaScript/TypeScript
 • Front-end: HTML5, CSS, Angular, React
-• Banco de Dados: MySQL, MongoDB
-• Ferramentas & Plataformas: Git, GitHub, Docker, Azure, Redis, CI/CD, FileZilla, WordPress
-• Conceitos: Programação Orientada a Objetos (POO), Web Scraping, Internacionalização (i18n)
-• Outros: Pacote Office (Básico ao Avançado), Hardware, Sistemas Operacionais
+• Databases: MySQL, MongoDB
+• Tools & Platforms: Git, GitHub, Docker, Azure, Redis, CI/CD, FileZilla, WordPress
+• Concepts: Object-Oriented Programming (OOP), Web Scraping, Internationalization (i18n)
+• Others: Office Suite (Basic to Advanced), Hardware, Operating Systems
 
 📞 Soft Skills:
-• Comunicação Clara (atendimento via chat, e-mail e voz)
-• Proatividade e Resolução de Problemas
-• Trabalho em Equipe
-• Inglês Intermediário
+• Clear Communication (chat, email, and voice support)
+• Proactivity and Problem-Solving
+• Teamwork
+• Intermediate English
 
-👨‍🎓 Formação & Cursos:
-• Graduação Tecnológica em Análise e Desenvolvimento de Sistemas
-• Cursos Complementares: Hardware, Operador de Tecnologia, Pacote Office (do Básico ao Avançado)
+👨‍🎓 Training & Courses:
+• Technological Degree in Systems Analysis and Development
+• Complementary Courses: Hardware, Technology Operator, Office Suite (from Basic to Advanced)
 
-🌟 Destaques:
-• Experiência em ambientes ágeis e práticas de CI/CD.
-• Capacidade de integrar conhecimentos de infraestrutura (Docker, Azure) com desenvolvimento.
-• Perfil híbrido, unindo technical skills com forte experiência em suporte e orientação ao cliente.
+🌟 Highlights:
+• Experience in agile environments and CI/CD practices.
+• Ability to integrate infrastructure knowledge (Docker, Azure) with development.
+• Hybrid profile, combining technical skills with strong experience in support and customer service.
 
-Estou aberto a novas oportunidades e conexões. Vamos conversar e explorar como posso contribuir para o sucesso do seu time, agradeço pela visita ao meu perfil e estou ansioso para expandir minha rede de contatos!
+I'm open to new opportunities and connections. Let's talk and explore how I can contribute to your team's success. Thank you for visiting my profile, and I look forward to expanding my network!
     <b>
   </p>
 
